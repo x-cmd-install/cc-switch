@@ -1,0 +1,60 @@
+about:
+  description: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+  license: MIT
+  homepage: https://ccswitch.io
+  head: c58a25b
+  archived: false
+  latestVersion: v3.20.1
+  collectedAt: 2026-09-02T05:05:56Z
+timeline:
+  created: 2025-08-04
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-28
+popularity:
+  star: 130610
+  watcher: 247
+  fork: 8972
+  release: 52
+  contributor: 227
+  pullRequest: 1376
+  issue: 4932
+language:
+  Rust: 8000514
+  TypeScript: 4246213
+  HTML: 105500
+  JavaScript: 9792
+  CSS: 6237
+totalLine: 12368256
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 3
+    mergedPR: 52
+    openPR: 284
+    closedIssue: 106
+    openIssue: 431
+    commit: 123
+  last90d:
+    since: 2026-06-04
+    release: 11
+    mergedPR: 143
+    openPR: 673
+    closedIssue: 921
+    openIssue: 1205
+    commit: 489
+  last180d:
+    since: 2026-03-06
+    release: 21
+    mergedPR: 312
+    openPR: 855
+    closedIssue: 2255
+    openIssue: 1624
+    commit: 1110
+  last360d:
+    since: 2025-09-07
+    release: 48
+    mergedPR: 465
+    openPR: 881
+    closedIssue: 3233
+    openIssue: 1692
+    commit: 2151
