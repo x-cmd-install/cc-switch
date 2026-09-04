@@ -7,13 +7,13 @@ about:
   head: db41d70
   archived: false
   latestVersion: v3.20.1
-  collectedAt: 2026-09-04T20:08:58Z
+  collectedAt: 2026-09-04T20:33:43Z
 timeline:
   created: 2025-08-04
   lastCommit: 2026-09-04
   lastRelease: 2026-08-28
 popularity:
-  star: 131076
+  star: 131079
   watcher: 247
   fork: 9014
   release: 52
@@ -85,7 +85,7 @@ total:
   commit: 2383
 ---
 path: /home/runner/.x-repo/github.com/farion1231/cc-switch
-collectedAt: 2026-09-04T20:09:01Z
+collectedAt: 2026-09-04T20:33:46Z
 loc:
   Rust:
     code: 176455
