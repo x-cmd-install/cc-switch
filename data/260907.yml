@@ -2,106 +2,106 @@ about:
   description: "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io"
   license: MIT
   homepage: https://ccswitch.io
-  head: 1b34d32
+  head: f3b18df
   archived: false
-  latestVersion: "v3.20.1"
-  collectedAt: 2026-09-07T04:35:34Z
+  latestVersion: "v3.20.2"
+  collectedAt: 2026-09-07T19:52:48Z
 timeline:
   created: 2025-08-04
   lastCommit: 2026-09-07
-  lastRelease: 2026-08-28
+  lastRelease: 2026-09-07
 popularity:
-  star: 131412
-  watcher: 248
-  fork: 9050
-  release: 52
-  contributor: 233
-  pullRequest: 1870
-  issue: 4995
+  star: 131536
+  watcher: 247
+  fork: 9058
+  release: 53
+  contributor: 239
+  pullRequest: 1884
+  issue: 5005
 language:
-  Rust: 8060880
-  TypeScript: 4277192
+  Rust: 8123311
+  TypeScript: 4285706
   HTML: 105500
   JavaScript: 9792
   CSS: 6237
-totalBytes: 12459601
+totalBytes: 12530546
 recent:
   last30d:
     since: 2026-08-08
-    release: 2
-    mergedPR: 43
-    openPR: 247
-    closedIssue: 94
-    openIssue: 398
-    commit: 102
+    release: 3
+    mergedPR: 47
+    openPR: 251
+    closedIssue: 101
+    openIssue: 401
+    commit: 116
   last60d:
     since: 2026-07-09
-    release: 7
-    mergedPR: 95
-    openPR: 469
-    closedIssue: 374
+    release: 8
+    mergedPR: 102
+    openPR: 470
+    closedIssue: 384
     openIssue: 813
-    commit: 270
+    commit: 284
   last90d:
     since: 2026-06-09
-    release: 10
-    mergedPR: 147
-    openPR: 633
-    closedIssue: 850
-    openIssue: 1169
-    commit: 443
+    release: 11
+    mergedPR: 154
+    openPR: 634
+    closedIssue: 862
+    openIssue: 1167
+    commit: 457
   last180d:
     since: 2026-03-11
-    release: 20
-    mergedPR: 317
-    openPR: 844
-    closedIssue: 2218
-    openIssue: 1642
-    commit: 1083
+    release: 21
+    mergedPR: 324
+    openPR: 845
+    closedIssue: 2231
+    openIssue: 1639
+    commit: 1097
   last360d:
     since: 2025-09-12
-    release: 47
-    mergedPR: 479
-    openPR: 874
-    closedIssue: 3260
-    openIssue: 1720
-    commit: 2125
+    release: 48
+    mergedPR: 486
+    openPR: 875
+    closedIssue: 3273
+    openIssue: 1717
+    commit: 2139
   last720d:
     since: 2024-09-17
-    release: 52
-    mergedPR: 487
-    openPR: 874
-    closedIssue: 3275
-    openIssue: 1720
-    commit: 2395
+    release: 53
+    mergedPR: 494
+    openPR: 875
+    closedIssue: 3288
+    openIssue: 1717
+    commit: 2409
 total:
-  release: 52
-  mergedPR: 487
-  openPR: 874
-  closedIssue: 3275
-  openIssue: 1720
-  commit: 2395
+  release: 53
+  mergedPR: 494
+  openPR: 875
+  closedIssue: 3288
+  openIssue: 1717
+  commit: 2409
 ---
 path: /home/runner/.x-repo/github.com/farion1231/cc-switch
-collectedAt: 2026-09-07T04:35:44Z
+collectedAt: 2026-09-07T19:52:54Z
 loc:
   Rust:
-    code: 177106
-    comments: 8036
-    blanks: 19240
+    code: 178406
+    comments: 8135
+    blanks: 19327
     files: 239
   Tsx:
-    code: 70194
+    code: 70198
     comments: 1445
     blanks: 6091
     files: 247
   TypeScript:
-    code: 43934
-    comments: 3420
+    code: 44169
+    comments: 3430
     blanks: 3012
     files: 231
   Json:
-    code: 13564
+    code: 13576
     comments: 0
     blanks: 1
     files: 14
@@ -142,47 +142,47 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 34182
-    blanks: 19097
-    files: 202
+    comments: 34900
+    blanks: 19486
+    files: 205
 total:
-  code: 313626
-  comments: 54814
-  blanks: 50092
-  files: 1024
+  code: 315183
+  comments: 55706
+  blanks: 50571
+  files: 1027
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:35:45+00:00
+  collectedAt: 2026-09-07T19:52:55+00:00
   platform:
     darwin/arm64:
-      name:  CC-Switch-v3.20.1-macOS.tar.gz
-      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.1/CC-Switch-v3.20.1-macOS.tar.gz
-      size:  28765962
+      name:  CC-Switch-v3.20.2-macOS.tar.gz
+      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-macOS.tar.gz
+      size:  28826804
       score: 30
     darwin/amd64:
-      name:  CC-Switch-v3.20.1-macOS.tar.gz
-      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.1/CC-Switch-v3.20.1-macOS.tar.gz
-      size:  28765962
+      name:  CC-Switch-v3.20.2-macOS.tar.gz
+      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-macOS.tar.gz
+      size:  28826804
       score: 30
     linux/arm64:
-      name:  CC-Switch-v3.20.1-Linux-arm64.AppImage
-      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.1/CC-Switch-v3.20.1-Linux-arm64.AppImage
-      size:  89872904
+      name:  CC-Switch-v3.20.2-Linux-arm64.AppImage
+      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-arm64.AppImage
+      size:  89893384
       score: 138
     linux/amd64:
-      name:  CC-Switch-v3.20.1-Linux-x86_64.AppImage
-      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.1/CC-Switch-v3.20.1-Linux-x86_64.AppImage
-      size:  92264952
+      name:  CC-Switch-v3.20.2-Linux-x86_64.AppImage
+      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-x86_64.AppImage
+      size:  92277240
       score: 38
     win/arm64:
-      name:  CC-Switch-v3.20.1-Windows-arm64-Portable.zip
-      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.1/CC-Switch-v3.20.1-Windows-arm64-Portable.zip
-      size:  12961242
+      name:  CC-Switch-v3.20.2-Windows-arm64-Portable.zip
+      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Windows-arm64-Portable.zip
+      size:  12987063
       score: 45
     win/amd64:
-      name:  CC-Switch-v3.20.1-Windows-Portable.zip
-      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.1/CC-Switch-v3.20.1-Windows-Portable.zip
-      size:  13607261
+      name:  CC-Switch-v3.20.2-Windows-Portable.zip
+      url:   https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Windows-Portable.zip
+      size:  13641956
       score: 30
