@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.20.2"
   latestRelease: "v3.20.2"
   latestPrerelease: "v3.9.0-3"
-  collectedAt: 2026-09-10T16:22:49Z
+  collectedAt: 2026-09-10T21:05:53Z
 timeline:
   created: 2025-08-04
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 2025-12-30
 popularity:
-  star: 132160
+  star: 132178
   watcher: 249
-  fork: 9105
+  fork: 9106
   release: 53
   contributor: 241
-  pullRequest: 1913
+  pullRequest: 1914
   issue: 5057
 language:
   Rust: 8145586
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-11
     release: 3
     mergedPR: 47
-    openPR: 249
+    openPR: 248
     closedIssue: 99
     openIssue: 401
     commit: 123
@@ -42,7 +42,7 @@ recent:
     since: 2026-07-12
     release: 8
     mergedPR: 106
-    openPR: 464
+    openPR: 463
     closedIssue: 363
     openIssue: 824
     commit: 291
@@ -50,7 +50,7 @@ recent:
     since: 2026-06-12
     release: 11
     mergedPR: 154
-    openPR: 641
+    openPR: 640
     closedIssue: 802
     openIssue: 1158
     commit: 464
@@ -58,7 +58,7 @@ recent:
     since: 2026-03-14
     release: 19
     mergedPR: 325
-    openPR: 865
+    openPR: 864
     closedIssue: 2191
     openIssue: 1677
     commit: 1104
@@ -66,7 +66,7 @@ recent:
     since: 2025-09-15
     release: 47
     mergedPR: 492
-    openPR: 895
+    openPR: 894
     closedIssue: 3276
     openIssue: 1758
     commit: 2146
@@ -74,20 +74,20 @@ recent:
     since: 2024-09-20
     release: 53
     mergedPR: 500
-    openPR: 895
+    openPR: 894
     closedIssue: 3299
     openIssue: 1758
     commit: 2416
 total:
   release: 53
   mergedPR: 500
-  openPR: 895
+  openPR: 894
   closedIssue: 3299
   openIssue: 1758
   commit: 2416
 ---
 path: /home/runner/.x-repo/github.com/farion1231/cc-switch
-collectedAt: 2026-09-10T16:22:56Z
+collectedAt: 2026-09-10T21:06:01Z
 loc:
   Rust:
     code: 178842

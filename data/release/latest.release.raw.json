@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 89893384,
       "digest": "sha256:13718d69fe4d8db6898b5f14e91b0f6e0d4f6a3b308549dcaf16bd2c4711ff51",
-      "download_count": 860,
+      "download_count": 873,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:35Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-arm64.AppImage"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 424,
       "digest": "sha256:47effa4d634bf6fb7a457ee75ceeceb4f36191e0497d3542c08f63402eab84f8",
-      "download_count": 129,
+      "download_count": 133,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:30Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-arm64.AppImage.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13072138,
       "digest": "sha256:02e34865b657604403ec6e2153672115e5cdd9de2cbaa418d4b9c40bfa8b7689",
-      "download_count": 1221,
+      "download_count": 1242,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-arm64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13073254,
       "digest": "sha256:fcbd2ea259d56eb0b2e5cda9f229682ed427e04a7fba18033541dba6123f3a15",
-      "download_count": 134,
+      "download_count": 141,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:32Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-arm64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 92277240,
       "digest": "sha256:51b871f2b3464429fe19958613fe1bf63b3bef688499b5676ce7a859e64b5f12",
-      "download_count": 1699,
+      "download_count": 1720,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:34Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-x86_64.AppImage"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 424,
       "digest": "sha256:c532252001da1953e39b022b0a496018926fba64a81d85eea1328f5c1ad8864a",
-      "download_count": 129,
+      "download_count": 135,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:30Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-x86_64.AppImage.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13629510,
       "digest": "sha256:ef0261bd9e84d7b79b0393fcc5dbc91664ab1b771d22fd108dbc9ada0f7b3fc7",
-      "download_count": 5025,
+      "download_count": 5096,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-x86_64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 13630053,
       "digest": "sha256:9cde077a612cd99ee40bfc51de47b6a9cece1a8cd1a2e06490ffc76a74bb3b98",
-      "download_count": 326,
+      "download_count": 332,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:32Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Linux-x86_64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 28111538,
       "digest": "sha256:847327c8acf320b8f3e1122676dd3921ff4dc7aa02ed1974579c8d7b00894dec",
-      "download_count": 108611,
+      "download_count": 114756,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:32Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-macOS.dmg"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 28826804,
       "digest": "sha256:f9e4345f868293d239bdfa5eaeb75a417d7e2f98112bde5361efd48937f6519f",
-      "download_count": 7311,
+      "download_count": 7399,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:32Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-macOS.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 408,
       "digest": "sha256:e22ac539923db9b89da19f674312f42bc811013e22210cb21355d93865979953",
-      "download_count": 84,
+      "download_count": 89,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:30Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-macOS.tar.gz.sig"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 28125809,
       "digest": "sha256:0972adce513f07d7a42f854b82d6776afb4b3824c709593e8fe68367a29d81ec",
-      "download_count": 627,
+      "download_count": 647,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:32Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-macOS.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 12987063,
       "digest": "sha256:05e3546bd580944fb59b9ae58a3d31f23ffe43d2299b9931f5234f4d0699faf6",
-      "download_count": 1887,
+      "download_count": 1922,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Windows-arm64-Portable.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 12861440,
       "digest": "sha256:f0a98e85170fedd4d0dd9d09f47d969e69dd72d6225cf5b7a5199984b1215a3c",
-      "download_count": 4297,
+      "download_count": 4357,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Windows-arm64.msi"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 424,
       "digest": "sha256:137f3aa3632af9b1ba04f9dbdf9b2a635c073c1187668d7b7c48182a3338b9ff",
-      "download_count": 341,
+      "download_count": 348,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:30Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Windows-arm64.msi.sig"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 13641956,
       "digest": "sha256:6c27a5bef4f444bd8cf30eee5af16d3d4b4d4f0f71c10c142beeed034ecb2eab",
-      "download_count": 7769,
+      "download_count": 7902,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:32Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Windows-Portable.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 13590528,
       "digest": "sha256:8b235a80a995336de6c9fbefd9f29782be6899b32a071e4c8e682e82159a778b",
-      "download_count": 38747,
+      "download_count": 39305,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Windows.msi"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 420,
       "digest": "sha256:542b6afcf6020f7816ad2b255d8b7836d5681f6bb991b197a798d76e08a65eab",
-      "download_count": 286,
+      "download_count": 292,
       "created_at": "2026-09-07T14:25:30Z",
       "updated_at": "2026-09-07T14:25:30Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Windows.msi.sig"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3534,
       "digest": "sha256:2145c495be674886ad49f2e6d8b37420ef4e4a7de9f06d38c1ae4408df1ce560",
-      "download_count": 92913,
+      "download_count": 95433,
       "created_at": "2026-09-07T14:25:48Z",
       "updated_at": "2026-09-07T14:25:48Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.2/latest.json"
