@@ -12,6 +12,18 @@ A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, 
 x install cc-switch
 ```
 
+## Code insight
+
+Total: **313,669** lines of code across **734** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 178,842 | 8,152 | 19,353 | 239 |
+| Tsx | 70,198 | 1,445 | 6,091 | 247 |
+| TypeScript | 44,539 | 3,455 | 3,023 | 231 |
+| Json | 13,564 | 0 | 1 | 14 |
+| Yaml | 4,751 | 9 | 1,146 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/farion1231/cc-switch>
@@ -23,6 +35,25 @@ x install cc-switch
 - **Latest**: `v3.20.2` (2026-09-07)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 19
+
+## Popularity
+
+- **Stars**: 132,178 · **Forks**: 9,106 · **Open issues**: 5,057 · **Contributors**: 241
+
+## Totals (cumulative)
+
+- **Releases**: 53 · **Merged PRs**: 500 · **Open PRs**: 894 · **Closed issues**: 3299 · **Open issues**: 1758 · **Commits**: 2416
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 47 | 248 | 99 | 401 | 123 |
+| last60d | 2026-07-12 | 8 | 106 | 463 | 363 | 824 | 291 |
+| 90d | 2026-06-12 | 11 | 154 | 640 | 802 | 1158 | 464 |
+| last180d | 2026-03-14 | 19 | 325 | 864 | 2191 | 1677 | 1104 |
+| 360d | 2025-09-15 | 47 | 492 | 894 | 3276 | 1758 | 2146 |
+| last720d | 2024-09-20 | 53 | 500 | 894 | 3299 | 1758 | 2416 |
 
 ## Release assets
 
@@ -48,33 +79,13 @@ x install cc-switch
 | [CC-Switch-v3.20.2-Windows.msi.sig](https://github.com/farion1231/cc-switch/releases/download/v3.20.2/CC-Switch-v3.20.2-Windows.msi.sig) | 420 B | `native/win/x64` |
 | [latest.json](https://github.com/farion1231/cc-switch/releases/download/v3.20.2/latest.json) | 3.5 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 132,160 · **Forks**: 9,105 · **Open issues**: 5,057 · **Contributors**: 241
+Reported by **5** distros on [repology.org](https://repology.org/project/cc-switch). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 53 · **Merged PRs**: 500 · **Open PRs**: 895 · **Closed issues**: 3299 · **Open issues**: 1758 · **Commits**: 2416
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 47 | 249 | 99 | 401 | 123 |
-| 90d | 2026-06-12 | 11 | 154 | 641 | 802 | 1158 | 464 |
-| 360d | 2025-09-15 | 47 | 492 | 895 | 3276 | 1758 | 2146 |
-
-## Code size
-
-Total: **313,669** lines of code across **734** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 178,842 | 8,152 | 19,353 | 239 |
-| Tsx | 70,198 | 1,445 | 6,091 | 247 |
-| TypeScript | 44,539 | 3,455 | 3,023 | 231 |
-| Json | 13,564 | 0 | 1 | 14 |
-| Yaml | 4,751 | 9 | 1,146 | 3 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `3.16.5` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -85,4 +96,4 @@ Install metadata for cc-switch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:23:01Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:06:07Z._
