@@ -1,19 +1,10 @@
-- repo: scoop
-  subrepo: extras
-  binname: cc-switch
-  visiblename: cc-switch
-  version: 3.20.2
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: aur
   srcname: cc-switch
   binname: cc-switch
   visiblename: cc-switch
   version: 3.20.2
   origversion: 3.20.2-1
-  status: newest
+  status: outdated
   summary: All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI
   maintainers:
     - hottea@aur
@@ -26,7 +17,7 @@
   visiblename: cc-switch-bin
   version: 3.20.2
   origversion: 3.20.2-1
-  status: newest
+  status: outdated
   summary: A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
   maintainers:
     - czyt@aur
@@ -37,7 +28,7 @@
   visiblename: CC Switch
   version: 3.20.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Configuration manager for AI coding agents
 - repo: nix_unstable
   srcname: cc-switch
@@ -49,5 +40,14 @@
   maintainers:
     - imcvampire@github
     - 1836362346@qq.com
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: extras
+  binname: cc-switch
+  visiblename: cc-switch
+  version: 3.20.3
+  origversion: null
+  status: newest
   licenses:
     - MIT

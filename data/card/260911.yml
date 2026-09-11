@@ -2,110 +2,110 @@ about:
   description: "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io"
   license: MIT
   homepage: https://ccswitch.io
-  head: 7726c83
+  head: d695a2d
   archived: false
-  latestVersion: "v3.20.2"
-  latestRelease: "v3.20.2"
+  latestVersion: "v3.20.3"
+  latestRelease: "v3.20.3"
   latestPrerelease: "v3.9.0-3"
-  collectedAt: 2026-09-11T04:32:43Z
+  collectedAt: 2026-09-11T20:27:43Z
 timeline:
   created: 2025-08-04
   lastCommit: 2026-09-11
-  lastVersion: 2026-09-07
-  lastRelease: 2026-09-07
+  lastVersion: 2026-09-11
+  lastRelease: 2026-09-11
   lastPrerelease: 2025-12-30
 popularity:
-  star: 132229
+  star: 132363
   watcher: 250
-  fork: 9111
-  release: 53
+  fork: 9127
+  release: 54
   contributor: 245
-  pullRequest: 1921
-  issue: 5062
+  pullRequest: 1928
+  issue: 5074
 language:
-  Rust: 8177925
-  TypeScript: 4310662
+  Rust: 8206985
+  TypeScript: 4323328
   HTML: 105500
   JavaScript: 9792
   CSS: 6237
-totalBytes: 12610116
+totalBytes: 12651842
 recent:
   last30d:
     since: 2026-08-12
-    release: 3
+    release: 4
     mergedPR: 52
-    openPR: 234
-    closedIssue: 102
-    openIssue: 393
-    commit: 128
+    openPR: 240
+    closedIssue: 103
+    openIssue: 404
+    commit: 140
   last60d:
     since: 2026-07-13
-    release: 8
+    release: 9
     mergedPR: 110
-    openPR: 452
-    closedIssue: 358
-    openIssue: 809
-    commit: 296
+    openPR: 458
+    closedIssue: 359
+    openIssue: 820
+    commit: 308
   last90d:
     since: 2026-06-13
-    release: 11
+    release: 12
     mergedPR: 153
-    openPR: 633
-    closedIssue: 805
-    openIssue: 1146
-    commit: 469
+    openPR: 638
+    closedIssue: 806
+    openIssue: 1157
+    commit: 481
   last180d:
     since: 2026-03-15
-    release: 19
+    release: 20
     mergedPR: 329
-    openPR: 858
-    closedIssue: 2195
-    openIssue: 1671
-    commit: 1109
+    openPR: 863
+    closedIssue: 2196
+    openIssue: 1682
+    commit: 1121
   last360d:
     since: 2025-09-16
-    release: 47
+    release: 48
     mergedPR: 497
-    openPR: 888
-    closedIssue: 3285
-    openIssue: 1753
-    commit: 2151
+    openPR: 893
+    closedIssue: 3286
+    openIssue: 1764
+    commit: 2163
   last720d:
     since: 2024-09-21
-    release: 53
+    release: 54
     mergedPR: 505
-    openPR: 888
-    closedIssue: 3309
-    openIssue: 1753
-    commit: 2421
+    openPR: 893
+    closedIssue: 3310
+    openIssue: 1764
+    commit: 2433
 total:
-  release: 53
+  release: 54
   mergedPR: 505
-  openPR: 888
-  closedIssue: 3309
-  openIssue: 1753
-  commit: 2421
+  openPR: 893
+  closedIssue: 3310
+  openIssue: 1764
+  commit: 2433
 ---
 path: /home/runner/.x-repo/github.com/farion1231/cc-switch
-collectedAt: 2026-09-11T04:32:50Z
+collectedAt: 2026-09-11T20:27:52Z
 loc:
   Rust:
-    code: 179325
-    comments: 8299
-    blanks: 19474
+    code: 179924
+    comments: 8355
+    blanks: 19498
     files: 239
   Tsx:
-    code: 70198
-    comments: 1445
-    blanks: 6091
-    files: 247
+    code: 70333
+    comments: 1449
+    blanks: 6101
+    files: 248
   TypeScript:
-    code: 44539
-    comments: 3455
-    blanks: 3023
-    files: 231
+    code: 44638
+    comments: 3500
+    blanks: 3027
+    files: 232
   Json:
-    code: 13565
+    code: 13577
     comments: 0
     blanks: 1
     files: 14
@@ -146,14 +146,14 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 34884
-    blanks: 19482
-    files: 205
+    comments: 35498
+    blanks: 19871
+    files: 208
 total:
-  code: 316463
-  comments: 55920
-  blanks: 50730
-  files: 1029
+  code: 317314
+  comments: 56648
+  blanks: 51157
+  files: 1034
 ---
 
 ---
