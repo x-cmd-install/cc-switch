@@ -38,22 +38,22 @@ Total: **314,998** lines of code across **736** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 132,363 · **Forks**: 9,127 · **Open issues**: 5,074 · **Contributors**: 245
+- **Stars**: 132,396 · **Forks**: 9,131 · **Open issues**: 5,079 · **Contributors**: 245
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 505 · **Open PRs**: 893 · **Closed issues**: 3310 · **Open issues**: 1764 · **Commits**: 2433
+- **Releases**: 54 · **Merged PRs**: 505 · **Open PRs**: 899 · **Closed issues**: 3309 · **Open issues**: 1770 · **Commits**: 2433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 4 | 52 | 240 | 103 | 404 | 140 |
-| last60d | 2026-07-13 | 9 | 110 | 458 | 359 | 820 | 308 |
-| 90d | 2026-06-13 | 12 | 153 | 638 | 806 | 1157 | 481 |
-| last180d | 2026-03-15 | 20 | 329 | 863 | 2196 | 1682 | 1121 |
-| 360d | 2025-09-16 | 48 | 497 | 893 | 3286 | 1764 | 2163 |
-| last720d | 2024-09-21 | 54 | 505 | 893 | 3310 | 1764 | 2433 |
+| 30d | 2026-08-13 | 4 | 50 | 234 | 98 | 394 | 140 |
+| last60d | 2026-07-14 | 8 | 108 | 454 | 342 | 809 | 308 |
+| 90d | 2026-06-14 | 12 | 152 | 636 | 793 | 1152 | 481 |
+| last180d | 2026-03-16 | 20 | 328 | 868 | 2182 | 1688 | 1121 |
+| 360d | 2025-09-17 | 48 | 497 | 899 | 3283 | 1770 | 2163 |
+| last720d | 2024-09-22 | 54 | 505 | 899 | 3309 | 1770 | 2433 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Total: **314,998** lines of code across **736** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/cc-switch). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/cc-switch). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -96,4 +96,4 @@ Install metadata for cc-switch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:28:00Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:31:48Z._
