@@ -4,7 +4,7 @@
 
 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 
-![cc-switch](https://repo.x-cmd.io/cc-switch.svg)
+[![x-cmd/install — cc-switch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cc-switch.svg)](https://x-cmd.com/install/cc-switch)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **318,967** lines of code across **744** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 133,440 · **Forks**: 9,202 · **Open issues**: 5,163 · **Contributors**: 249
+- **Stars**: 133,719 · **Forks**: 9,228 · **Open issues**: 5,184 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 513 · **Open PRs**: 930 · **Closed issues**: 3341 · **Open issues**: 1822 · **Commits**: 2442
+- **Releases**: 54 · **Merged PRs**: 513 · **Open PRs**: 951 · **Closed issues**: 3347 · **Open issues**: 1837 · **Commits**: 2442
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 46 | 220 | 101 | 376 | 114 |
-| last60d | 2026-07-20 | 8 | 112 | 445 | 306 | 782 | 268 |
-| 90d | 2026-06-20 | 11 | 149 | 635 | 718 | 1127 | 466 |
-| last180d | 2026-03-22 | 20 | 332 | 893 | 2139 | 1738 | 1116 |
-| 360d | 2025-09-23 | 46 | 501 | 930 | 3302 | 1822 | 2127 |
-| last720d | 2024-09-28 | 54 | 513 | 930 | 3341 | 1822 | 2442 |
+| 30d | 2026-08-21 | 3 | 43 | 226 | 97 | 354 | 114 |
+| last60d | 2026-07-22 | 7 | 111 | 459 | 292 | 771 | 268 |
+| 90d | 2026-06-22 | 11 | 148 | 649 | 697 | 1117 | 466 |
+| last180d | 2026-03-24 | 20 | 332 | 910 | 2121 | 1752 | 1116 |
+| 360d | 2025-09-25 | 46 | 501 | 951 | 3302 | 1837 | 2127 |
+| last720d | 2024-09-30 | 54 | 513 | 951 | 3347 | 1837 | 2442 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cc-switch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:46:16Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:53:16Z._

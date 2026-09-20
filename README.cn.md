@@ -4,7 +4,7 @@
 
 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 
-![cc-switch](https://repo.x-cmd.io/cc-switch.svg?lang=zh)
+[![x-cmd/install — cc-switch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cc-switch.svg?lang=zh)](https://x-cmd.com/install/cc-switch)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install cc-switch
 
 ## 流行度
 
-- **Star**: 133,440 · **Fork**: 9,202 · **开放 issue**: 5,163 · **贡献者**: 249
+- **Star**: 133,719 · **Fork**: 9,228 · **开放 issue**: 5,184 · **贡献者**: 249
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 513 · **开放 PR**: 930 · **已关闭 issue**: 3341 · **开放 issue**: 1822 · **提交数**: 2442
+- **发布数**: 54 · **已合并 PR**: 513 · **开放 PR**: 951 · **已关闭 issue**: 3347 · **开放 issue**: 1837 · **提交数**: 2442
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 46 | 220 | 101 | 376 | 114 |
-| last60d | 2026-07-20 | 8 | 112 | 445 | 306 | 782 | 268 |
-| 90d | 2026-06-20 | 11 | 149 | 635 | 718 | 1127 | 466 |
-| last180d | 2026-03-22 | 20 | 332 | 893 | 2139 | 1738 | 1116 |
-| 360d | 2025-09-23 | 46 | 501 | 930 | 3302 | 1822 | 2127 |
-| last720d | 2024-09-28 | 54 | 513 | 930 | 3341 | 1822 | 2442 |
+| 30d | 2026-08-21 | 3 | 43 | 226 | 97 | 354 | 114 |
+| last60d | 2026-07-22 | 7 | 111 | 459 | 292 | 771 | 268 |
+| 90d | 2026-06-22 | 11 | 148 | 649 | 697 | 1117 | 466 |
+| last180d | 2026-03-24 | 20 | 332 | 910 | 2121 | 1752 | 1116 |
+| 360d | 2025-09-25 | 46 | 501 | 951 | 3302 | 1837 | 2127 |
+| last720d | 2024-09-30 | 54 | 513 | 951 | 3347 | 1837 | 2442 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ cc-switch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:46:17Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:53:17Z._
