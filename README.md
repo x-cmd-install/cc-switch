@@ -38,22 +38,22 @@ Total: **325,166** lines of code across **749** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 136,910 · **Forks**: 9,327 · **Open issues**: 5,273 · **Contributors**: 261
+- **Stars**: 137,263 · **Forks**: 9,339 · **Open issues**: 5,279 · **Contributors**: 261
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 545 · **Open PRs**: 1004 · **Closed issues**: 3391 · **Open issues**: 1882 · **Commits**: 2501
+- **Releases**: 55 · **Merged PRs**: 545 · **Open PRs**: 1005 · **Closed issues**: 3391 · **Open issues**: 1888 · **Commits**: 2502
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 4 | 56 | 230 | 99 | 322 | 145 |
-| last60d | 2026-07-28 | 8 | 133 | 480 | 273 | 747 | 299 |
-| 90d | 2026-06-28 | 11 | 171 | 676 | 655 | 1100 | 481 |
-| last180d | 2026-03-30 | 20 | 349 | 956 | 2091 | 1791 | 1157 |
-| 360d | 2025-10-01 | 47 | 530 | 1004 | 3334 | 1882 | 2170 |
-| last720d | 2024-10-06 | 55 | 545 | 1004 | 3391 | 1882 | 2501 |
+| 30d | 2026-08-28 | 4 | 55 | 225 | 93 | 312 | 146 |
+| last60d | 2026-07-29 | 8 | 131 | 474 | 268 | 741 | 300 |
+| 90d | 2026-06-29 | 11 | 169 | 672 | 634 | 1093 | 482 |
+| last180d | 2026-03-31 | 20 | 348 | 956 | 2064 | 1796 | 1158 |
+| 360d | 2025-10-02 | 47 | 530 | 1005 | 3332 | 1888 | 2171 |
+| last720d | 2024-10-07 | 55 | 545 | 1005 | 3391 | 1888 | 2502 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cc-switch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:52:03Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:18:08Z._
