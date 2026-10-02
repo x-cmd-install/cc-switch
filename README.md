@@ -14,14 +14,14 @@ x install cc-switch
 
 ## Code insight
 
-Total: **327,007** lines of code across **795** files in the top 5 languages.
+Total: **340,232** lines of code across **817** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 187,449 | 7,958 | 19,714 | 283 |
-| Tsx | 73,044 | 1,537 | 6,259 | 255 |
-| TypeScript | 46,349 | 3,489 | 2,911 | 237 |
-| Json | 13,575 | 0 | 1 | 17 |
+| Rust | 196,116 | 8,227 | 20,397 | 288 |
+| Tsx | 75,888 | 1,674 | 6,488 | 262 |
+| TypeScript | 47,822 | 3,662 | 3,049 | 247 |
+| Json | 13,816 | 0 | 1 | 17 |
 | Yaml | 4,751 | 9 | 1,146 | 3 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **327,007** lines of code across **795** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.20.4` (2026-09-22)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-02
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 139,208 · **Forks**: 9,390 · **Open issues**: 5,318 · **Contributors**: 263
+- **Stars**: 139,426 · **Forks**: 9,402 · **Open issues**: 5,325 · **Contributors**: 264
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 555 · **Open PRs**: 1032 · **Closed issues**: 3396 · **Open issues**: 1922 · **Commits**: 2535
+- **Releases**: 55 · **Merged PRs**: 557 · **Open PRs**: 1029 · **Closed issues**: 3401 · **Open issues**: 1924 · **Commits**: 2562
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 3 | 58 | 233 | 83 | 308 | 155 |
-| last60d | 2026-08-02 | 6 | 133 | 476 | 239 | 715 | 284 |
-| 90d | 2026-07-03 | 10 | 171 | 679 | 560 | 1078 | 471 |
-| last180d | 2026-04-04 | 20 | 347 | 981 | 2026 | 1826 | 1122 |
-| 360d | 2025-10-06 | 46 | 537 | 1032 | 3329 | 1922 | 2184 |
-| last720d | 2024-10-11 | 55 | 555 | 1032 | 3396 | 1922 | 2535 |
+| 30d | 2026-09-02 | 3 | 56 | 225 | 81 | 300 | 182 |
+| last60d | 2026-08-03 | 6 | 130 | 466 | 228 | 703 | 311 |
+| 90d | 2026-07-04 | 10 | 173 | 670 | 556 | 1077 | 498 |
+| last180d | 2026-04-05 | 20 | 348 | 976 | 2019 | 1828 | 1149 |
+| 360d | 2025-10-07 | 46 | 539 | 1029 | 3331 | 1924 | 2211 |
+| last720d | 2024-10-12 | 55 | 557 | 1029 | 3401 | 1924 | 2562 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cc-switch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:43:10Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:31:15Z._
