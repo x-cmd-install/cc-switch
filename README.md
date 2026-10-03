@@ -14,11 +14,11 @@ x install cc-switch
 
 ## Code insight
 
-Total: **340,232** lines of code across **817** files in the top 5 languages.
+Total: **341,171** lines of code across **818** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 196,116 | 8,227 | 20,397 | 288 |
+| Rust | 197,059 | 8,306 | 20,487 | 289 |
 | Tsx | 75,888 | 1,674 | 6,488 | 262 |
 | TypeScript | 47,822 | 3,662 | 3,049 | 247 |
 | Json | 13,816 | 0 | 1 | 17 |
@@ -38,22 +38,22 @@ Total: **340,232** lines of code across **817** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 139,426 · **Forks**: 9,402 · **Open issues**: 5,325 · **Contributors**: 264
+- **Stars**: 139,617 · **Forks**: 9,401 · **Open issues**: 5,332 · **Contributors**: 267
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 557 · **Open PRs**: 1029 · **Closed issues**: 3401 · **Open issues**: 1924 · **Commits**: 2562
+- **Releases**: 55 · **Merged PRs**: 560 · **Open PRs**: 1022 · **Closed issues**: 3419 · **Open issues**: 1913 · **Commits**: 2566
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 3 | 56 | 225 | 81 | 300 | 182 |
-| last60d | 2026-08-03 | 6 | 130 | 466 | 228 | 703 | 311 |
-| 90d | 2026-07-04 | 10 | 173 | 670 | 556 | 1077 | 498 |
-| last180d | 2026-04-05 | 20 | 348 | 976 | 2019 | 1828 | 1149 |
-| 360d | 2025-10-07 | 46 | 539 | 1029 | 3331 | 1924 | 2211 |
-| last720d | 2024-10-12 | 55 | 557 | 1029 | 3401 | 1924 | 2562 |
+| 30d | 2026-09-03 | 3 | 59 | 218 | 81 | 291 | 186 |
+| last60d | 2026-08-04 | 6 | 126 | 451 | 213 | 689 | 315 |
+| 90d | 2026-07-05 | 10 | 175 | 661 | 566 | 1058 | 502 |
+| last180d | 2026-04-06 | 20 | 348 | 968 | 2033 | 1815 | 1153 |
+| 360d | 2025-10-08 | 46 | 542 | 1022 | 3347 | 1913 | 2215 |
+| last720d | 2024-10-13 | 55 | 560 | 1022 | 3419 | 1913 | 2566 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cc-switch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:31:15Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:10:01Z._
