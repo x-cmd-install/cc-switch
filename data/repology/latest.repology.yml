@@ -15,9 +15,9 @@
   srcname: cc-switch-bin
   binname: cc-switch-bin
   visiblename: cc-switch-bin
-  version: 4.0.19
-  origversion: 4.0.19-1
-  status: outdated
+  version: 4.0.20
+  origversion: 4.0.20-1
+  status: newest
   summary: A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
   maintainers:
     - czyt@aur
@@ -26,9 +26,9 @@
 - repo: chocolatey
   binname: cc-switch
   visiblename: CC Switch
-  version: 4.0.15
+  version: 4.0.20
   origversion: null
-  status: outdated
+  status: newest
   summary: CC Switch is a desktop assistant for switching between coding agents such as Claude Code, Codex and OpenCode.
 - repo: homebrew_casks
   srcname: cc-switch
