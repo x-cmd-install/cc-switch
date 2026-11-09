@@ -1,9 +1,25 @@
+- repo: altsisyphus
+  srcname: cc-switch
+  binnames:
+    - cc-switch
+    - cc-switch-debuginfo
+  visiblename: cc-switch
+  version: 4.0.26
+  origversion: 4.0.26-alt1
+  status: outdated
+  summary: All-in-One Assistant for Claude Code, Codex and Gemini CLI
+  maintainers:
+    - lav@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
 - repo: aur
   srcname: cc-switch
   binname: cc-switch
   visiblename: cc-switch
-  version: 4.0.27
-  origversion: 4.0.27-1
+  version: 4.0.28
+  origversion: 4.0.28-1
   status: newest
   summary: All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI
   maintainers:
@@ -15,30 +31,14 @@
   srcname: cc-switch-bin
   binname: cc-switch-bin
   visiblename: cc-switch-bin
-  version: 4.0.27
-  origversion: 4.0.27-1
+  version: 4.0.28
+  origversion: 4.0.28-1
   status: newest
   summary: A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
   maintainers:
     - czyt@aur
   licenses:
     - MIT
-- repo: altsisyphus
-  srcname: cc-switch
-  binnames:
-    - cc-switch
-    - cc-switch-debuginfo
-  visiblename: cc-switch
-  version: 4.0.25
-  origversion: 4.0.25-alt1
-  status: outdated
-  summary: All-in-One Assistant for Claude Code, Codex and Gemini CLI
-  maintainers:
-    - lav@altlinux.org
-  licenses:
-    - MIT
-  categories:
-    - Development/Other
 - repo: chocolatey
   binname: cc-switch
   visiblename: CC Switch
@@ -49,7 +49,7 @@
 - repo: homebrew_casks
   srcname: cc-switch
   visiblename: CC Switch
-  version: 4.0.27
+  version: 4.0.28
   origversion: null
   status: newest
   summary: Configuration manager for AI coding agents
@@ -69,7 +69,7 @@
   subrepo: extras
   binname: cc-switch
   visiblename: cc-switch
-  version: 4.0.27
+  version: 4.0.28
   origversion: null
   status: newest
   licenses:
