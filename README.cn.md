@@ -14,15 +14,15 @@ x install cc-switch
 
 ## 代码洞察
 
-合计: **605,229** 行代码（覆盖前 5 种语言、共 **1387** 个文件）。
+合计: **607,809** 行代码（覆盖前 5 种语言、共 **1421** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 325,611 | 11,583 | 28,651 | 446 |
-| Tsx | 137,700 | 5,150 | 10,082 | 446 |
-| TypeScript | 81,651 | 7,331 | 5,033 | 396 |
-| Json | 48,829 | 0 | 1 | 96 |
-| Yaml | 5,049 | 9 | 1,261 | 3 |
+| Rust | 327,177 | 11,816 | 29,139 | 471 |
+| Tsx | 138,355 | 5,161 | 10,153 | 448 |
+| TypeScript | 81,942 | 7,351 | 5,054 | 402 |
+| Json | 48,906 | 0 | 1 | 97 |
+| Yaml | 5,043 | 9 | 1,259 | 3 |
 
 ## 源代码
 
@@ -32,56 +32,56 @@ x install cc-switch
 
 ## 发布
 
-- **最新版本**: `v4.0.37` (2026-11-20)
-- **最近提交**: 2026-11-21
+- **最新版本**: `v4.0.38` (2026-11-21)
+- **最近提交**: 2026-11-22
 - **Release 含资产**: 23 个
 
 ## 流行度
 
-- **Star**: 156,081 · **Fork**: 10,200 · **开放 issue**: 6,384 · **贡献者**: 386
+- **Star**: 156,239 · **Fork**: 10,209 · **开放 issue**: 6,397 · **贡献者**: 390
 
 ## 累计统计
 
-- **发布数**: 93 · **已合并 PR**: 967 · **开放 PR**: 322 · **已关闭 issue**: 5876 · **开放 issue**: 508 · **提交数**: 3820
+- **发布数**: 94 · **已合并 PR**: 1000 · **开放 PR**: 315 · **已关闭 issue**: 5928 · **开放 issue**: 469 · **提交数**: 3860
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 19 | 218 | 149 | 351 | 205 | 642 |
-| last60d | 2026-09-22 | 39 | 401 | 253 | 814 | 351 | 1337 |
-| 90d | 2026-08-23 | 42 | 478 | 291 | 1208 | 418 | 1490 |
-| last180d | 2026-05-25 | 54 | 667 | 322 | 3545 | 475 | 2028 |
-| 360d | 2025-11-26 | 77 | 916 | 322 | 5638 | 508 | 3113 |
-| last720d | 2024-12-01 | 93 | 966 | 322 | 5876 | 508 | 3820 |
+| 30d | 2026-10-23 | 20 | 239 | 131 | 356 | 174 | 502 |
+| last60d | 2026-09-23 | 39 | 428 | 240 | 832 | 325 | 1327 |
+| 90d | 2026-08-24 | 43 | 507 | 283 | 1238 | 385 | 1492 |
+| last180d | 2026-05-26 | 55 | 697 | 315 | 3565 | 440 | 2008 |
+| 360d | 2025-11-27 | 78 | 949 | 315 | 5687 | 469 | 3107 |
+| last720d | 2024-12-02 | 94 | 999 | 315 | 5928 | 469 | 3860 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [CC-Switch-v4.0.37-Linux-arm64.AppImage](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-arm64.AppImage) | 92.0 MiB | `native/linux/arm64` |
-| [CC-Switch-v4.0.37-Linux-arm64.AppImage.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-arm64.AppImage.sig) | 444 B | `native/linux/arm64` |
-| [CC-Switch-v4.0.37-Linux-arm64.deb](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-arm64.deb) | 18.9 MiB | `native/linux/arm64` |
-| [CC-Switch-v4.0.37-Linux-arm64.deb.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-arm64.deb.sig) | 436 B | `native/linux/arm64` |
-| [CC-Switch-v4.0.37-Linux-arm64.rpm](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-arm64.rpm) | 18.9 MiB | `native/linux/arm64` |
-| [CC-Switch-v4.0.37-Linux-arm64.rpm.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-arm64.rpm.sig) | 440 B | `native/linux/arm64` |
-| [CC-Switch-v4.0.37-Linux-x86_64.AppImage](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-x86_64.AppImage) | 94.7 MiB | `native/linux/x64` |
-| [CC-Switch-v4.0.37-Linux-x86_64.AppImage.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-x86_64.AppImage.sig) | 444 B | `native/linux/x64` |
-| [CC-Switch-v4.0.37-Linux-x86_64.deb](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-x86_64.deb) | 19.7 MiB | `native/linux/x64` |
-| [CC-Switch-v4.0.37-Linux-x86_64.deb.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-x86_64.deb.sig) | 436 B | `native/linux/x64` |
-| [CC-Switch-v4.0.37-Linux-x86_64.rpm](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-x86_64.rpm) | 19.8 MiB | `native/linux/x64` |
-| [CC-Switch-v4.0.37-Linux-x86_64.rpm.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Linux-x86_64.rpm.sig) | 440 B | `native/linux/x64` |
-| [CC-Switch-v4.0.37-macOS.dmg](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-macOS.dmg) | 39.4 MiB | `native/darwin/x64` |
-| [CC-Switch-v4.0.37-macOS.tar.gz](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-macOS.tar.gz) | 40.5 MiB | `native/darwin/x64` |
-| [CC-Switch-v4.0.37-macOS.tar.gz.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-macOS.tar.gz.sig) | 428 B | `native/darwin/x64` |
-| [CC-Switch-v4.0.37-macOS.zip](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-macOS.zip) | 39.4 MiB | `native/darwin/x64` |
-| [CC-Switch-v4.0.37-Windows-arm64-Portable.zip](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Windows-arm64-Portable.zip) | 18.6 MiB | `native/win/arm64` |
-| [CC-Switch-v4.0.37-Windows-arm64.msi](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Windows-arm64.msi) | 18.7 MiB | `native/win/arm64` |
-| [CC-Switch-v4.0.37-Windows-arm64.msi.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Windows-arm64.msi.sig) | 444 B | `native/win/arm64` |
-| [CC-Switch-v4.0.37-Windows-Portable.zip](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Windows-Portable.zip) | 19.6 MiB | `native/win/x64` |
-| [CC-Switch-v4.0.37-Windows.msi](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Windows.msi) | 19.5 MiB | `native/win/x64` |
-| [CC-Switch-v4.0.37-Windows.msi.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/CC-Switch-v4.0.37-Windows.msi.sig) | 440 B | `native/win/x64` |
-| [latest.json](https://github.com/farion1231/cc-switch/releases/download/v4.0.37/latest.json) | 5.9 KiB | `other` |
+| [CC-Switch-v4.0.38-Linux-arm64.AppImage](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-arm64.AppImage) | 92.2 MiB | `native/linux/arm64` |
+| [CC-Switch-v4.0.38-Linux-arm64.AppImage.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-arm64.AppImage.sig) | 444 B | `native/linux/arm64` |
+| [CC-Switch-v4.0.38-Linux-arm64.deb](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-arm64.deb) | 19.1 MiB | `native/linux/arm64` |
+| [CC-Switch-v4.0.38-Linux-arm64.deb.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-arm64.deb.sig) | 436 B | `native/linux/arm64` |
+| [CC-Switch-v4.0.38-Linux-arm64.rpm](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-arm64.rpm) | 19.1 MiB | `native/linux/arm64` |
+| [CC-Switch-v4.0.38-Linux-arm64.rpm.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-arm64.rpm.sig) | 440 B | `native/linux/arm64` |
+| [CC-Switch-v4.0.38-Linux-x86_64.AppImage](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-x86_64.AppImage) | 94.9 MiB | `native/linux/x64` |
+| [CC-Switch-v4.0.38-Linux-x86_64.AppImage.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-x86_64.AppImage.sig) | 444 B | `native/linux/x64` |
+| [CC-Switch-v4.0.38-Linux-x86_64.deb](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-x86_64.deb) | 20.0 MiB | `native/linux/x64` |
+| [CC-Switch-v4.0.38-Linux-x86_64.deb.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-x86_64.deb.sig) | 436 B | `native/linux/x64` |
+| [CC-Switch-v4.0.38-Linux-x86_64.rpm](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-x86_64.rpm) | 20.0 MiB | `native/linux/x64` |
+| [CC-Switch-v4.0.38-Linux-x86_64.rpm.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Linux-x86_64.rpm.sig) | 440 B | `native/linux/x64` |
+| [CC-Switch-v4.0.38-macOS.dmg](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-macOS.dmg) | 39.8 MiB | `native/darwin/x64` |
+| [CC-Switch-v4.0.38-macOS.tar.gz](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-macOS.tar.gz) | 40.9 MiB | `native/darwin/x64` |
+| [CC-Switch-v4.0.38-macOS.tar.gz.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-macOS.tar.gz.sig) | 428 B | `native/darwin/x64` |
+| [CC-Switch-v4.0.38-macOS.zip](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-macOS.zip) | 39.8 MiB | `native/darwin/x64` |
+| [CC-Switch-v4.0.38-Windows-arm64-Portable.zip](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Windows-arm64-Portable.zip) | 18.7 MiB | `native/win/arm64` |
+| [CC-Switch-v4.0.38-Windows-arm64.msi](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Windows-arm64.msi) | 18.8 MiB | `native/win/arm64` |
+| [CC-Switch-v4.0.38-Windows-arm64.msi.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Windows-arm64.msi.sig) | 444 B | `native/win/arm64` |
+| [CC-Switch-v4.0.38-Windows-Portable.zip](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Windows-Portable.zip) | 19.7 MiB | `native/win/x64` |
+| [CC-Switch-v4.0.38-Windows.msi](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Windows.msi) | 19.6 MiB | `native/win/x64` |
+| [CC-Switch-v4.0.38-Windows.msi.sig](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/CC-Switch-v4.0.38-Windows.msi.sig) | 440 B | `native/win/x64` |
+| [latest.json](https://github.com/farion1231/cc-switch/releases/download/v4.0.38/latest.json) | 5.9 KiB | `other` |
 
 ## 发行版状态
 
@@ -100,4 +100,4 @@ cc-switch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T07:02:39Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T06:34:54Z._
