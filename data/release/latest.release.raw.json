@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 96971272,
       "digest": "sha256:549829a7be2fcd109e91df0b78724f431b5a5811b3b7efd5d95fe01a2b7593d8",
-      "download_count": 313,
+      "download_count": 595,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:34Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-arm64.AppImage"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 444,
       "digest": "sha256:00a42ec880cb1009a08444c440cdc6097b283ad10b8c72da3cf949570e218b54",
-      "download_count": 45,
+      "download_count": 72,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-arm64.AppImage.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 20309284,
       "digest": "sha256:e0e7db92faaec3fdc7e7091df588369e6006a8ec6d719a544ff3f8b19df288cd",
-      "download_count": 246,
+      "download_count": 454,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-arm64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 436,
       "digest": "sha256:5e72f115d7d501ea9dfef7288fb66861d7fc6c5c8f81698b9efa5392c1f1518f",
-      "download_count": 32,
+      "download_count": 61,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-arm64.deb.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20315093,
       "digest": "sha256:f95e3cfe1a959baf2e569f215943d86d99422f469c90a7f96a70af025d0b6acb",
-      "download_count": 49,
+      "download_count": 94,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:32Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-arm64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 440,
       "digest": "sha256:0bd2a94a1639975310d09ac2231c4698c2923d1d87f00bb2c4acd88c400a544f",
-      "download_count": 30,
+      "download_count": 56,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-arm64.rpm.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 99781112,
       "digest": "sha256:f59ce87e8d67f4bc75367f9823b349665a08e589afcfc6d92ccd203193d72c33",
-      "download_count": 312,
+      "download_count": 631,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:34Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-x86_64.AppImage"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 444,
       "digest": "sha256:6eb91126d5d667f46490b9d2c66670c274c91a152ab15133f9c274422bad8e37",
-      "download_count": 34,
+      "download_count": 64,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-x86_64.AppImage.sig"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21225570,
       "digest": "sha256:e5ea595d42a2f65ab475c00ef70de0a4267d8a58dfd6c9ba8ff513c76353a6c9",
-      "download_count": 718,
+      "download_count": 1818,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:32Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-x86_64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 436,
       "digest": "sha256:58b400d88bb3f1c7d10d1c706e267d2b508e142ac71910379d737f7389e1bfad",
-      "download_count": 41,
+      "download_count": 82,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-x86_64.deb.sig"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 21228257,
       "digest": "sha256:d63a82460a69dbec9d419ea3b6f8298e54f70e700aad3cdabe0bedb0ce4e49d5",
-      "download_count": 108,
+      "download_count": 208,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-x86_64.rpm"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 440,
       "digest": "sha256:64280a3d76841eff05bd2a9290b9070cb5083266d179a4cfe8c6c064bdfcc9fe",
-      "download_count": 25,
+      "download_count": 53,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Linux-x86_64.rpm.sig"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 42259852,
       "digest": "sha256:b7fb95745258220dd2ac6a6aee82a92bfc33135b48bb10677034896de5018e5d",
-      "download_count": 29615,
+      "download_count": 59680,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:32Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-macOS.dmg"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 43465978,
       "digest": "sha256:590254d7be0cb8a1643075cb057fe277cf23ce97d113d4ace99bf93f75770b6d",
-      "download_count": 823,
+      "download_count": 1540,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:33Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-macOS.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 428,
       "digest": "sha256:d250608c7d437226ea33080b1c18b4a552099bd722b3924b018d8129b98106e4",
-      "download_count": 27,
+      "download_count": 46,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-macOS.tar.gz.sig"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 42336374,
       "digest": "sha256:9ea14be4a575a7abe923703cafb724bdd5f46e258bfdf21257230eabafd93755",
-      "download_count": 487,
+      "download_count": 695,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:33Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-macOS.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 19916768,
       "digest": "sha256:6f24752171dc640992d1d0b6c482cade095c277f0e2b4f4e0b2dc527563ac7bb",
-      "download_count": 366,
+      "download_count": 698,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Windows-arm64-Portable.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 20017152,
       "digest": "sha256:4549e15031918bdbaa19337875cb9ef8919606438c8c4640e4bb036ed6f1422d",
-      "download_count": 806,
+      "download_count": 1563,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Windows-arm64.msi"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 444,
       "digest": "sha256:aedbd30708f5aa3f6c57b964c00aaebceee0a57f0634ae41b787d30e71891562",
-      "download_count": 45,
+      "download_count": 89,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Windows-arm64.msi.sig"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 20965491,
       "digest": "sha256:de840f2fe8460aa53c22cd4a7d9361629481b41b37b75742041c15636eb1cdf7",
-      "download_count": 2552,
+      "download_count": 4668,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Windows-Portable.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 20897792,
       "digest": "sha256:2c5eed7de3d1686dca226fe3f01e3d76e8f1b3ffa0d47ab3a4c91496c3010841",
-      "download_count": 6808,
+      "download_count": 12981,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:31Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Windows.msi"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 440,
       "digest": "sha256:f24032c9c88f67e3d9aa71305a9a3aaa180d04abe242bc3df52cba7d36c8ddaa",
-      "download_count": 91,
+      "download_count": 170,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Windows.msi.sig"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 6026,
       "digest": "sha256:097992d942bcf5154abdb0d13a4facb192294a6b21497881151b426c71a45c84",
-      "download_count": 17111,
+      "download_count": 34843,
       "created_at": "2026-11-23T12:42:29Z",
       "updated_at": "2026-11-23T12:42:29Z",
       "browser_download_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/latest.json"
@@ -868,5 +868,17 @@
   "tarball_url": "https://api.github.com/repos/farion1231/cc-switch/tarball/v4.0.40",
   "zipball_url": "https://api.github.com/repos/farion1231/cc-switch/zipball/v4.0.40",
   "body": "# CC Switch v4.0.40\n\n本版本让 **Grok Build 的官方卡可以绑定授权中心里的 xAI 账号**，像 Claude、Codex 官方卡一样在多个 Grok 账号之间切换。**插件页**支持 Antigravity CLI；**用量统计**的供应商和模型列表加了缓存命中率；**小米 MiMo** 内置余额和 Token Plan 额度查询；授权中心的账号卡片跟随侧栏应用的顺序和隐藏设置。\n\n本版本还加固了深链接导入 MCP、用量脚本、SQL 导入和非本机监听地址的安全检查，并提升了数据库、本地路由、用量同步、会话搜索和「应用」页的速度。另外修复了 Kimi Code Desktop 主 agent 的用量没统计；Antigravity 输出速度从 4.0.38 起虚高；T3 Code 和单独运行的 ACP 里的 Antigravity 会话看不到；Mistral 官方 API 开思考后回复为空；Kimi 原生 Responses 在并行看图工具调用后一直报 400；WorkBuddy 企业账号积分显示为已用完；托盘里看不到 xAI 额度、官方账号显示成网站域名；Skills 页的「发现」里出现重复的技能；「应用」页要等版本检查完才显示安装状态等问题。\n\n**[English →](https://github.com/farion1231/cc-switch/blob/main/docs/release-notes/v4.0.40-en.md) | [日本語版 →](https://github.com/farion1231/cc-switch/blob/main/docs/release-notes/v4.0.40-ja.md)**\n\n---\n\n## 新增\n\n### Grok 官方卡绑定 xAI 账号\n\nGrok Build 的 Grok Official 表单加了「登录方式」（[#9321](https://github.com/farion1231/cc-switch/pull/9321)，关闭 [#8599](https://github.com/farion1231/cc-switch/issues/8599)），可以选授权中心里的 xAI 账号、添加或管理 xAI 账号，或者「跟随 Grok CLI 登录」，用法和 Claude、Codex 官方卡一样。\n\n- 每个绑定的账号是一张单独的卡，名字带上账号，可以加任意多张；不绑账号的仍是原来那张固定的卡。\n- 切到绑了账号的卡时，CC Switch 会先刷新这个号的登录，再把它写进 Grok CLI 的 `~/.grok/auth.json`，文件里的其他内容不动。Grok CLI 已经登录着这个号时不写；网络暂时失败时提示稍后重试，账号确实失效才提示去授权中心重新登录。\n- 换号前，Grok CLI 当前登录的号会先收进授权中心；切回「跟随 Grok CLI 登录」的卡时，还原成第一次换号前的号。\n- 在授权中心删掉账号时，如果 Grok CLI 正在用的是 CC Switch 替这个号写的登录，会还原原来的登录，原来的号也没了就退出登录。\n- 绑了账号的卡，卡片、用量和托盘的额度都按这个号查。没绑账号的卡在 Grok CLI 的登录过期时，改用授权中心里同一个用户的账号查额度。\n\n### Antigravity CLI 插件\n\n「插件」页支持 Antigravity CLI（[#9882](https://github.com/farion1231/cc-switch/pull/9882)、[#9885](https://github.com/farion1231/cc-switch/pull/9885)），和其他应用一样调用 `agy` 自己的命令行，可以在「发现」里浏览官方和合作伙伴市场的插件，安装、启用、停用、卸载和更新。\n\n- 更新前先比对市场上的版本号，已是最新就不重装。\n- 插件被正在运行的 Antigravity 会话或后台服务占用时，提示先关掉再重试。\n- 旧版 Antigravity 应用装的插件放在数字命名的目录里，CC Switch 无法替它更新，会提示卸载后在「发现」里重新安装。\n\n### 用量统计：按供应商和模型看缓存命中率\n\n用量统计的「供应商」和「模型」列表在 Tokens 后面加了「命中率」一列，能看出是哪家供应商、哪个模型没吃到缓存。算法和请求日志里的命中率一样（缓存命中 ÷ 可缓存输入），各行的缓存命中和可缓存输入加起来与顶部的总数一致；没有可缓存输入的行显示「—」。\n\n### 小米 MiMo 余额和 Token Plan 额度\n\n小米 MiMo 的供应商内置了两种官方查询（关闭 [#9404](https://github.com/farion1231/cc-switch/issues/9404)），不用再靠抓控制台 Cookie 的用量脚本：\n\n- Token Plan（`tp-` 开头的 Key）：显示已用和总额度，以及本期结束时间。\n- 余额（`sk-` 开头的 Key）：显示可用余额（扣除冻结部分），余额为 0 不会被当成 Key 无效。\n\n### 授权中心卡片跟随侧栏应用\n\n授权中心的账号卡片按「应用」页里拖动的应用顺序排列。只有用到这个账号的应用全都隐藏了，卡片才隐藏（Copilot、ChatGPT、xAI 账号还会被 Claude Code 等应用的供应商用到）；从供应商表单跳过来的那张卡总是显示。\n\n### 新增预设\n\n新增 StringAI。\n\n---\n\n## 变更\n\n- **数据库与本地路由更快**（[#9820](https://github.com/farion1231/cc-switch/pull/9820)、[#9821](https://github.com/farion1231/cc-switch/pull/9821)）：主数据库改用 WAL 模式，路由每次请求要读的配置、路由、定价和故障转移队列改从缓存读，路由的数据库操作移到单独的线程，不再占住处理请求的线程；转发请求时少复制一次对话内容，没有改写过的请求不再重复跑隐私过滤。\n- **用量同步更快**（[#9817](https://github.com/farion1231/cc-switch/pull/9817)、[#9818](https://github.com/farion1231/cc-switch/pull/9818)）：各应用的会话日志并行扫描；用量脚本在单独的线程里运行，不再拖慢其他请求。\n- **会话内容搜索更快**（[#9827](https://github.com/farion1231/cc-switch/pull/9827)、[#9896](https://github.com/farion1231/cc-switch/pull/9896)）：一两个字的搜索不再扫描全部正文；继续输入时，上一次还没完成的搜索会被取消。搜索索引格式有变，升级后第一次搜索会重建索引。\n- **「应用」页打开更快**（[#9418](https://github.com/farion1231/cc-switch/pull/9418)、[#9886](https://github.com/farion1231/cc-switch/pull/9886)，关闭 [#9884](https://github.com/farion1231/cc-switch/issues/9884)）：先按本机的安装路径显示「已安装 / 未安装」分组，不用等每个工具的版本检查；各工具的版本同时检查，查完一个显示一个。\n\n---\n\n## 安全\n\n- **深链接导入 MCP**（[#9831](https://github.com/farion1231/cc-switch/pull/9831)）：确认框显示 MCP 服务器的全部字段（包括工作目录、请求头等），高危字段标红提示。会读取本机环境变量、执行辅助命令、把工作目录指向网络共享路径，或地址不是 http / https 的配置，直接拒绝导入。\n- **用量脚本**（[#9829](https://github.com/farion1231/cc-switch/pull/9829)）：脚本发出的请求不再跟随重定向，不能发给 CC Switch 自己的路由端口，响应最多读 2 MiB；填进脚本的 Key、地址等变量会正确转义。深链接里的用量查询地址也会检查，是内网或本机地址时确认框会提示。\n- **SQL 导入**（[#9832](https://github.com/farion1231/cc-switch/pull/9832)）：导入 SQL 备份或 WebDAV / S3 同步快照时，不允许创建触发器和视图，文件最大 512 MiB，执行超过 30 秒即中止。\n- **非本机监听地址的 Host 检查**（[#9833](https://github.com/farion1231/cc-switch/pull/9833)）：路由服务监听 `0.0.0.0` / `::` 时，来自本机的请求也要通过防 DNS 重绑定的 Host 检查。\n\n---\n\n## 修复\n\n- **Kimi Code Desktop 主 agent 的用量没统计**（[#9505](https://github.com/farion1231/cc-switch/pull/9505)，见 [#9498](https://github.com/farion1231/cc-switch/issues/9498)）：Kimi Code Desktop 1.3.5 换了会话日志格式，主 agent 的用量被跳过，子 agent 的模型显示为 `unknown`。现在两种格式都能读，不会重复计算；升级后会重新扫描一次旧日志，补上以前漏掉的用量和模型。\n- **Antigravity 输出速度虚高**（[#9858](https://github.com/farion1231/cc-switch/pull/9858)）：4.0.38 起，思考较久的请求能显示几万 tok/s。Antigravity 的输出 token 含隐藏的思考，首字时间也包含思考时长，现在改回按完整耗时计算。\n- **T3 Code 和单独运行的 ACP 里的 Antigravity 会话看不到**（[#9857](https://github.com/farion1231/cc-switch/pull/9857)，见 [#9838](https://github.com/farion1231/cc-switch/issues/9838)）：这些会话现在会出现在会话列表和用量统计里。它们没有可用的恢复命令，也不能在 CC Switch 里删除；T3 Code 加在提问外面的说明会去掉，标题显示原本的提问。\n- **Mistral 官方 API 开思考后回复为空**（见 [#9902](https://github.com/farion1231/cc-switch/issues/9902)）：开了思考的 Mistral 官方 API（包括它提供的第三方模型）把回复拆成思考和正文两种片段返回，本地路由读不出来，回复为空或没有思考过程。现在两种片段都能按顺序读出；发给上游的请求不变。\n- **Kimi 原生 Responses 在并行看图后一直报 400**（[#8825](https://github.com/farion1231/cc-switch/pull/8825)，见 [#7504](https://github.com/farion1231/cc-switch/issues/7504)）：Codex Desktop 会在并行工具调用的结果之间插入提示，Kimi 这类严格的原生 Responses 上游会丢掉不紧跟调用的结果，这个会话之后每轮都报 400。现在先把这批结果收齐放在一起，再放插入的提示。\n- **WorkBuddy 企业账号积分显示为已用完**（见 [#9694](https://github.com/farion1231/cc-switch/issues/9694)）：企业账号改查企业用量，显示总额度、已用和到期时间；不限量的显示「不限量，已用 N」，查不到额度时报查询失败，不再显示「已用完（共 0）」。\n- **托盘里看不到 xAI 额度**（见 [#9899](https://github.com/farion1231/cc-switch/issues/9899)）：Codex、Claude Code 里的 xAI OAuth 供应商（包括 Codex 聚合的成员）在托盘里也按绑定的 xAI 账号显示额度，没绑定时用授权中心的默认账号，和主界面卡片一致。\n- **托盘里官方账号显示成网站域名**（[#9863](https://github.com/farion1231/cc-switch/pull/9863)）：绑了托管账号的 Codex 官方卡，以及 Codex OAuth、GitHub Copilot、xAI OAuth 卡，托盘副标题显示登录的账号（手动备注优先）。主界面的 xAI OAuth 卡片也显示账号；在授权中心登录、切换默认账号、删除或退出登录后托盘会跟着更新。\n- **Skills 页的「发现」里出现重复的技能**：同一个仓库里末级目录同名的两个技能会装进同一个目录，「发现」里原来显示成两行，现在只显示离仓库根目录最近的那个。\n- **OpenCode Desktop 自带的 CLI 被提示用 npm 升级**（[#9099](https://github.com/farion1231/cc-switch/pull/9099)）：这份 CLI 的安装来源显示为 OpenCode Desktop，并说明它随 Desktop 应用更新，不再计入「全部升级」；单独安装的 OpenCode 照常升级。\n- **快到 64 MiB 上限的流式事件被误跳过**（[#9867](https://github.com/farion1231/cc-switch/pull/9867)）：4.0.39 加的缓冲上限改成按单条事件判断，接近上限的正常事件不会再和同一块里的下一条一起被丢掉。\n\n---\n\n## 升级说明\n\n- 路由服务监听 `0.0.0.0` / `::`、又在本机用自定义主机名（不以 `.local`、`.internal`、`.localhost` 结尾）访问路由的，升级后会收到 403，需要在设置「本地路由」的「连接地址」里填上这个主机名（这个地址也会写进各客户端的配置）。局域网、WSL、Docker 里的其他设备不受影响。\n- 会话内容搜索的索引会在升级后第一次搜索时重建，会话多的话第一次会慢一些。\n\n---\n\n## 致谢\n\n感谢 @Owlbay（Grok 官方卡绑定 xAI 账号）、@funkpopo（Antigravity 插件、「应用」页版本检查提速、CI 提速、路由 Host 检查）、@YUZHEthefool（安全加固、数据库与路由提速、用量同步提速、会话搜索提速、托盘账号副标题）、@Chenning-Tao（Kimi Code Desktop 用量）、@ZhenWang-BIT（Antigravity 输出速度、T3 Code 会话）、@Fansway（Kimi 并行工具调用）、@teddyli18000（OpenCode Desktop CLI 升级）、@wlndysky（「应用」页冷启动）、@allenxu09（托盘账号副标题、评审修改）、@HaiYangBG1（流式缓冲上限、代码整理）、@SaladDay（测试与代码整理）的贡献。\n\n感谢 @yzw7489757、@Fonsi479、@spy123-1、@Xavier9896、@PorkneckRon、@wintervault、@cxhzzb 报告问题和提供复现信息。\n\n完整的技术细节请见 [CHANGELOG](https://github.com/farion1231/cc-switch/blob/main/CHANGELOG.md)。\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/farion1231/cc-switch/releases/455411984/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 18
 }
