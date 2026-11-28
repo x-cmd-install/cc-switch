@@ -1,0 +1,170 @@
+about:
+  description: "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io"
+  license: MIT
+  homepage: https://ccswitch.io
+  head: ff0a51a
+  archived: false
+  latestVersion: "v4.0.44"
+  latestRelease: "v4.0.44"
+  latestPrerelease: "v4.0.3"
+  collectedAt: 2026-11-28T07:35:59Z
+timeline:
+  created: 2025-08-04
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-10-06
+popularity:
+  star: 157723
+  watcher: 279
+  fork: 10309
+  release: 100
+  contributor: 406
+  pullRequest: 3167
+  issue: 6498
+language:
+  Rust: 15936667
+  TypeScript: 8937538
+  HTML: 161753
+  CSS: 26120
+  JavaScript: 15774
+  Python: 3578
+totalBytes: 25081430
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 23
+    mergedPR: 293
+    openPR: 103
+    closedIssue: 332
+    openIssue: 173
+    commit: 654
+  last60d:
+    since: 2026-09-29
+    release: 45
+    mergedPR: 500
+    openPR: 226
+    closedIssue: 862
+    openIssue: 333
+    commit: 1479
+  last90d:
+    since: 2026-08-30
+    release: 48
+    mergedPR: 583
+    openPR: 268
+    closedIssue: 1216
+    openIssue: 387
+    commit: 1644
+  last180d:
+    since: 2026-06-01
+    release: 60
+    mergedPR: 765
+    openPR: 308
+    closedIssue: 3415
+    openIssue: 435
+    commit: 2160
+  last360d:
+    since: 2025-12-03
+    release: 81
+    mergedPR: 1031
+    openPR: 308
+    closedIssue: 5765
+    openIssue: 454
+    commit: 3259
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 1085
+    openPR: 308
+    closedIssue: 6044
+    openIssue: 454
+    commit: 4013
+total:
+  release: 100
+  mergedPR: 1086
+  openPR: 308
+  closedIssue: 6044
+  openIssue: 454
+  commit: 4013
+---
+path: /home/runner/.x-repo/github.com/farion1231/cc-switch
+collectedAt: 2026-11-28T07:36:15Z
+loc:
+  Rust:
+    code: 354999
+    comments: 12188
+    blanks: 30870
+    files: 498
+  Tsx:
+    code: 148046
+    comments: 5493
+    blanks: 10835
+    files: 475
+  TypeScript:
+    code: 85333
+    comments: 7687
+    blanks: 5227
+    files: 421
+  Json:
+    code: 50629
+    comments: 0
+    blanks: 1
+    files: 106
+  Yaml:
+    code: 5043
+    comments: 9
+    blanks: 1259
+    files: 3
+  Toml:
+    code: 3149
+    comments: 35
+    blanks: 255
+    files: 7
+  Html:
+    code: 1481
+    comments: 18
+    blanks: 43
+    files: 4
+  Css:
+    code: 709
+    comments: 82
+    blanks: 98
+    files: 2
+  Svg:
+    code: 563
+    comments: 30
+    blanks: 14
+    files: 86
+  JavaScript:
+    code: 408
+    comments: 35
+    blanks: 18
+    files: 4
+  Python:
+    code: 75
+    comments: 5
+    blanks: 8
+    files: 1
+  Xml:
+    code: 22
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 47796
+    blanks: 26687
+    files: 366
+  Text:
+    code: 0
+    comments: 233
+    blanks: 19
+    files: 15
+total:
+  code: 653921
+  comments: 89811
+  blanks: 77125
+  files: 1989
+---
+
+---
